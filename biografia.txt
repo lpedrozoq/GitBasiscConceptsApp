@@ -1,7 +1,7 @@
 Mi nombre es Fredy
 Vega
 
-Soy el CTO de Platzi y en
+Soy el CEO de Platzi y en
 mis tiempos libres bailo
 y cocino y hago cosas raras
 en Basic y c#
