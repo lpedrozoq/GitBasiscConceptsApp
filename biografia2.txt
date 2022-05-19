@@ -9,3 +9,7 @@ Esta es la 6ta línea adicionado por lpedrozoqd
 lpedrozoqd contribuye a este archivo opens-source
 =========================================
 (master) Ejemplo de línea para probar el rebase
+=========================================
+(experimento) Ejemplo de línea 1 para probar el rebase
+=========================================
+(experimento) Ejemplo de línea 2 para probar el rebase
